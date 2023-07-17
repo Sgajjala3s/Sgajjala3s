@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Sai Gajjala
+- 👀 I’m interested in working on Coding in Python and Dot.Net.
+- 🌱 I’m currently learning some Dot.Net
+- 💞️ I’m looking to collaborate on with coders who can work with me on programming.
+- 📫 Mail: sgajjala3s@gmail.com
